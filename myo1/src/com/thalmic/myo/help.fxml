@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="492.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2">
+  <children>
+    <Text layoutX="246.0" layoutY="51.0" scaleX="1.0" scaleY="1.0" strokeType="OUTSIDE" strokeWidth="0.0" text="DJ Buddy Help" underline="true">
+      <font>
+        <Font name="System Bold" size="20.0" />
+      </font>
+    </Text>
+    <Text layoutX="37.0" layoutY="86.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome to the DJ Buddy program." />
+    <Text layoutX="37.0" layoutY="114.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Start off by wearing your Myo bracelet on your left arm, synchronize it," />
+    <Text layoutX="37.0" layoutY="130.0" strokeType="OUTSIDE" strokeWidth="0.0" text=" and then press the &quot;Activate MYO detection&quot; button." />
+    <Text layoutX="37.0" layoutY="160.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Afterwards, point your arm left at torso level, so that the &quot;Yaw&quot; level will be at no less than 4, " />
+    <Text layoutX="37.0" layoutY="197.0" strokeType="OUTSIDE" strokeWidth="0.0" text="This should be your default body position. " />
+    <Text layoutX="37.0" layoutY="213.0" strokeType="OUTSIDE" strokeWidth="0.0" text="You should try and move your arm around, and see how the &quot;Arm Positioning&quot; value changes." />
+    <Text layoutX="37.0" layoutY="242.0" strokeType="OUTSIDE" strokeWidth="0.0" text="From this point, you can try activating various beats and light show effects by combining" />
+    <Text layoutX="37.0" layoutY="258.0" strokeType="OUTSIDE" strokeWidth="0.0" text="arm positionings with the built in MYO gestures." />
+    <Text layoutX="37.0" layoutY="294.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Wave-in : Drum beats. (Doing this gesture while pointing down will stop the beat)." />
+    <Text layoutX="37.0" layoutY="310.0" scaleX="1.0" scaleY="0.9999923519334313" strokeType="OUTSIDE" strokeWidth="0.0" text="Wave-out: Bass beats.  (Doing this gesture while pointing down will stop the beat)." />
+    <Text layoutX="37.0" layoutY="326.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Spread fingers: Lightshow (single light)" />
+    <Text layoutX="37.0" layoutY="342.0" scaleX="1.0" scaleY="0.9999923519334313" strokeType="OUTSIDE" strokeWidth="0.0" text="Fist: Lightshow (Intensity) - note, this is affected by Pitch, not Arm Positioning." />
+    <Text layoutX="37.0" layoutY="176.0" strokeType="OUTSIDE" strokeWidth="0.0" text="and your arm keeps parallel to your torso." />
+    <Text layoutX="37.0" layoutY="371.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Pointing down and double tapping will stop both beats from playing." />
+    <Text layoutX="37.0" layoutY="410.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Available arm positions: POINTS RIGHT, HORIZONTAL\LEANING\VERTICAL" />
+    <Text layoutX="165.0" layoutY="432.0" strokeType="OUTSIDE" strokeWidth="0.0" text=" POINTS FOWARD, HORIZONTAL\LEANING\VERTICAL" />
+    <Text layoutX="165.0" layoutY="456.0" strokeType="OUTSIDE" strokeWidth="0.0" text=" POINTS LEFT, HORIZONTAL\LEANING\VERTICAL" />
+  </children>
+</AnchorPane>

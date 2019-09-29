@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="myo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/thalmic/myo/osx/myo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
